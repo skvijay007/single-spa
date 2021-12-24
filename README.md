@@ -1,5 +1,5 @@
 # Single-spa
-Practice build for Base UI single-spa application.
+Single-spa application with [different kind of Micro frontends](https://single-spa.js.org/docs/module-types/) .
 
 >Its best practice to have application MFE's, utility module MFE or styleguide MFE to be isolated from single-spa repository but for purpose of practiceing this repo consists of,
 
