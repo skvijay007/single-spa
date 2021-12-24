@@ -60,5 +60,5 @@
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9"
   },
-  "types": "dist/versent-practice-mfe.d.ts"
+  "types": "dist/pkg-practice-mfe.d.ts"
 }

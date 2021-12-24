@@ -1,6 +1,6 @@
 {
   "extends": "ts-config-single-spa",
-  "files": ["src/versent-root-config.ts"],
+  "files": ["src/pkg-root-config.ts"],
   "compilerOptions": {
     "declarationDir": "dist"
   },

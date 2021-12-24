@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/versent-practice-mfe-2.tsx"],
+  "files": ["src/pkg-practice-mfe-2.tsx"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }

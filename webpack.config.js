@@ -3,7 +3,7 @@ const singleSpaDefaults = require("webpack-config-single-spa-ts");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = (webpackConfigEnv, argv) => {
-  const orgName = "versent";
+  const orgName = "pkg";
   const defaultConfig = singleSpaDefaults({
     orgName,
     projectName: "root-config",
